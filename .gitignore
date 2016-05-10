@@ -1,8 +1,9 @@
-﻿# Created by https://www.gitignore.io/api/unity
+﻿개인메모(공유x).txt
+# Created by https://www.gitignore.io/api/unity
 
 ### Unity ###
-/[Ll]ibrary/
-/[Tt]emp/
+/Ori**/[Ll]ibrary/
+/Ori**/[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
@@ -32,4 +33,5 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
-# Ori_20160510/Library
+*.swp
+*~
